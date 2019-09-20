@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\bin\Debug\netcoreapp2.2\Idade em Semanas.deps.json
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\bin\Debug\netcoreapp2.2\Idade em Semanas.runtimeconfig.json
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\bin\Debug\netcoreapp2.2\Idade em Semanas.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\bin\Debug\netcoreapp2.2\Idade em Semanas.dll
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\bin\Debug\netcoreapp2.2\Idade em Semanas.pdb
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\obj\Debug\netcoreapp2.2\Idade em Semanas.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\obj\Debug\netcoreapp2.2\Idade em Semanas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\obj\Debug\netcoreapp2.2\Idade em Semanas.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\obj\Debug\netcoreapp2.2\Idade em Semanas.AssemblyInfo.cs
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\obj\Debug\netcoreapp2.2\Idade em Semanas.dll
+C:\Users\fic\Documents\CODE XP - Carla\Csharp\Idade em Semanas\obj\Debug\netcoreapp2.2\Idade em Semanas.pdb
