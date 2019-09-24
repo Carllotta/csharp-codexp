@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\obj\Debug\netcoreapp2.2\ListaProdutoComFor.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\obj\Debug\netcoreapp2.2\ListaProdutoComFor.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\obj\Debug\netcoreapp2.2\ListaProdutoComFor.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\obj\Debug\netcoreapp2.2\ListaProdutoComFor.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\bin\Debug\netcoreapp2.2\ListaProdutoComFor.deps.json
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\bin\Debug\netcoreapp2.2\ListaProdutoComFor.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\bin\Debug\netcoreapp2.2\ListaProdutoComFor.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\bin\Debug\netcoreapp2.2\ListaProdutoComFor.dll
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\bin\Debug\netcoreapp2.2\ListaProdutoComFor.pdb
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\obj\Debug\netcoreapp2.2\ListaProdutoComFor.dll
+C:\Users\fic\Desktop\csharp-codexp\ListaProdutoComFor\obj\Debug\netcoreapp2.2\ListaProdutoComFor.pdb

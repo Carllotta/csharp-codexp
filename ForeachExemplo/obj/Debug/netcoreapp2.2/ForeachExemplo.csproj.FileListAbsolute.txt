@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\obj\Debug\netcoreapp2.2\ForeachExemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\obj\Debug\netcoreapp2.2\ForeachExemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\obj\Debug\netcoreapp2.2\ForeachExemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\obj\Debug\netcoreapp2.2\ForeachExemplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\bin\Debug\netcoreapp2.2\ForeachExemplo.deps.json
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\bin\Debug\netcoreapp2.2\ForeachExemplo.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\bin\Debug\netcoreapp2.2\ForeachExemplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\bin\Debug\netcoreapp2.2\ForeachExemplo.dll
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\bin\Debug\netcoreapp2.2\ForeachExemplo.pdb
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\obj\Debug\netcoreapp2.2\ForeachExemplo.dll
+C:\Users\fic\Desktop\csharp-codexp\ForeachExemplo\obj\Debug\netcoreapp2.2\ForeachExemplo.pdb
