@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\funcao\obj\Debug\netcoreapp2.2\funcao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\funcao\obj\Debug\netcoreapp2.2\funcao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\funcao\obj\Debug\netcoreapp2.2\funcao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\funcao\obj\Debug\netcoreapp2.2\funcao.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\funcao\bin\Debug\netcoreapp2.2\funcao.deps.json
+C:\Users\fic\Desktop\csharp-codexp\funcao\bin\Debug\netcoreapp2.2\funcao.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\funcao\bin\Debug\netcoreapp2.2\funcao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\funcao\bin\Debug\netcoreapp2.2\funcao.dll
+C:\Users\fic\Desktop\csharp-codexp\funcao\bin\Debug\netcoreapp2.2\funcao.pdb
+C:\Users\fic\Desktop\csharp-codexp\funcao\obj\Debug\netcoreapp2.2\funcao.dll
+C:\Users\fic\Desktop\csharp-codexp\funcao\obj\Debug\netcoreapp2.2\funcao.pdb
